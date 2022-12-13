@@ -1,0 +1,5 @@
+/fastapienv/
+/alembic/
+*.xml
+*.iml
+database.py
